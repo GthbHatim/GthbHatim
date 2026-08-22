@@ -11,6 +11,9 @@ I have little development and programing experience, but I have worked in/with:
 * GNU/Linux
 * Windows (Poweruser)
 * General computer hardware
+AND NOW!!!!!
+* Python (kinda)
+* SQL (Also kinda)
 ### Active days?
 I let the data speak for it self lol
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GthbHatim&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
