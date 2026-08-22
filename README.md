@@ -11,6 +11,7 @@ I have little development and programing experience, but I have worked in/with:
 * GNU/Linux
 * Windows (Poweruser)
 * General computer hardware
+  
 AND NOW!!!!!
 * Python (kinda)
 * SQL (Also kinda)
