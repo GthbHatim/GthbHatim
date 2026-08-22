@@ -1,6 +1,6 @@
 # Hello there 👋
 ### Who am I?
-I'm Hatim, a 17 yr developer who just loves spending time coding, and also has past records with web development
+I'm Hatim, a 17 yr developer who just loves spending time coding, even tho i'm not the best at it (if u are a recruiter, im just kidding)
 ### Where you live?
 I live in Barcelona (Spain), so my native languages are Spanish and Catalonian, though i'm also a fully fluent English speaker.
 ### What you know?
