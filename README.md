@@ -23,5 +23,5 @@ As of the moment I use my precious and beloved Lenovo Thinkpad E14 Gen 2
 * Dual-booting both Windows 10 LTSC and Fedora 44
 ### Active days?
 I let the data speak for it self lol
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GthbHatim&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GthbHatim&theme=high_contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
