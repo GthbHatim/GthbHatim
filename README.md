@@ -15,10 +15,19 @@ I live in Barcelona (Spain), so my native languages are Spanish and Catalonian, 
 I have little development and programing experience, but I have worked in/with:
 * Arduino
 * Web development (Especially with Tailwind)
+* Graphic Design (Adobe Suit)
+* Video / Photo editing (Adobe Suit)
+* Sys maintenance
 
 AND NOW!!!!!
 * Python (kinda)
 * SQL (Also kinda)
+
+
+    </td>
+
+    <!-- COLUMNA DERECHA: ESTADÍSTICAS -->
+    <td valign="top" width="45%">
 
 ### What's ur setup?
 As of the moment I use my precious and beloved Lenovo Thinkpad E14 Gen 2
@@ -26,11 +35,6 @@ As of the moment I use my precious and beloved Lenovo Thinkpad E14 Gen 2
 * 16 GB RAM
 * 256 GB SSD
 * Dual-booting both Windows 11 LTSC and Fedora 44
-
-    </td>
-
-    <!-- COLUMNA DERECHA: ESTADÍSTICAS -->
-    <td valign="top" width="45%">
 
 ### Active days?
 I let the data speak for it self lol
