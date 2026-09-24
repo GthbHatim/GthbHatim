@@ -25,7 +25,7 @@ As of the moment I use my precious and beloved Lenovo Thinkpad E14 Gen 2
 * Intel I5 1135G7
 * 16 GB RAM
 * 256 GB SSD
-* Dual-booting both Windows 10 LTSC and Fedora 44
+* Dual-booting both Windows 11 LTSC and Fedora 44
 
     </td>
 
